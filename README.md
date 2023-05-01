@@ -1,17 +1,46 @@
-<H2><strong>Browser-Migration-Tool</strong></H2><br />
-Welcome to the Browser Migration Tool! &nbsp;Are you tired of manually transferring all of your bookmarks, saved passwords, cookies ,session and other important browser data &nbsp;every time you switch to a new web browser or new laptop? Look no further, because the Browser Migration Tool is here to save you time and frustration. Browser Migration Tool is a Cross Platform Application that helps you quickly migrate your browser<br />
-data into other pc or a new browser without any hassle, whether you buy new pc or laptop. you can use it to move your browser profile(s). Browser Migration Tool is freeware, it supports windows and linux (not tested on linux) developed in dotnet core. supports all chromium based browser (chrome,edge,opera,brave,vivaldi)</p>
+<p><strong>Browser Migration Tool</strong></p>
 
-<p>if you want to support this project please &nbsp;<br />
+<p>Welcome to the Browser Migration Tool! &nbsp;Are you tired of manually transferring all of your bookmarks, saved passwords, cookies ,session and other important browser data &nbsp;every time you switch to a new web browser or new laptop? Look no further, because the Browser Migration Tool is here to save you time and frustration. Browser Migration Tool is a Cross Platform Application that helps you quickly migrate your browser<br />
+data into other pc or a new browser without any hassle, whether you buy new pc or laptop. you can use it to move your browser profile(s).developed in dotnet core browser Migration tool is freeware, it supports windows and linux (not tested) developed in dotnet core. supports all chromium based browser (chrome,edge,opera,brave,vivaldi)</p>
+
+<p>if you want to support this project please donate btc :-)&nbsp;<br />
 or&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/Bmcrafts">Buy me a Coffee</a></p>
-or Donate bitcoin
+
 <p>Donate Bitcoin<br />
 Send only Bitcoin (BTC) to this deposit address. Sending any other coin or token to this address may result in the loss of your donation, Thanks!<br />
 Address<br />
 1BVvLbr3omJrYukG6g99AR98YWm7W4GiRx</p>
 
+<h2>Installation</h2>
+
+<p>Download Release Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
+
+<p><strong>Windows 10/11&nbsp;&nbsp; &nbsp;</strong></p>
+
+<p>Download and install Microsoft DotNet Framework 6 RunTime from Microsoft Website</p>
+
+<p>x64:<br />
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x86-installer<br />
+x86:<br />
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer</p>
+
+<p><strong>Linux</strong>:</p>
+
+<p>For Linux Ubuntu</p>
+
+<p>https://learn.microsoft.com/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website</p>
+
+<p>https://learn.microsoft.com/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website</p>
+
 <p><br />
-migrate browser data between computers&quot;, &quot;transfer bookmarks from one browser to another&quot;, &quot;sync browser data across devices&quot;<br />
+or use winget install Microsoft.DotNet.SDK.6 for Windows !0</p>
+
+<p><br />
+<br />
+for Linux use &quot;dotnet MT.dll Run&quot; Commad to start<br />
+&nbsp;</p>
+
+<p>migrate browser data between computers&quot;, &quot;transfer bookmarks from one browser to another&quot;, &quot;sync browser data across devices&quot;<br />
 , &quot;move browser history to new computer&quot;<br />
 , &quot;switch browsers and keep bookmark favorites&quot;<br />
 , &quot;import browser data from old to new laptop&quot;<br />
@@ -20,4 +49,4 @@ migrate browser data between computers&quot;, &quot;transfer bookmarks from one 
 , &quot;migrate browser data from old to new device&quot;<br />
 , &quot;import browser history and bookmarks to new browser&quot;</p>
 
-
+<p><strong><a href="https://www.buymeacoffee.com/Bmcrafts">Buy me a&nbsp;Cofee</a></strong></p>
