@@ -12,27 +12,27 @@ const cryptoWallets = [
  {
   symbol: 'BTC', 
   name: 'Bitcoin',
-  address: '1BVvLbr3omJrYukG6g99AR98YWm7W4GiRx', 
+  address: '1E1RQm9VtdCKxB67N64S7KVaje77BgRzJb', 
  }, 
  {
   symbol: 'ETH', 
   name: 'Etherium',
-  address: '0xF5cDA284eEc8813cb9D76EFCc68783E1044E86CA', 
+  address: '0xBd09c08E7a573d532ca1abc904bE4Db99920e61c', 
  }, 
  {
   symbol: 'LTC', 
   name: 'Litecoin',
-  address: 'LfuwDsNrVRVuphMZJhXAedAKgNipZGHA3V', 
+  address: 'LdvaP13fiSaEcS9QWt9K8xrfBX1ZZvp9Ng', 
  }, 
  {
   symbol: 'NANO', 
   name: 'Nano',
-  address: 'nano_1hom48ymgbwxdeu7d4jfxgpnqm41gw591xu7acg8o8uajhsxwpk3pfwd3zm8', 
+  address: 'nano_3qbkaf67xo155jydnqyimi6hfr914iwcmrp5hsd163udi5drce8wdkeb65id', 
  }, 
  {
   symbol: 'NEO', 
   name: 'Neo',
-  address: 'NT4nwUA31zZecjkBcZYbR2BG7N8YJ2AEFe', 
+  address: 'NbsxkUqqSXDxSNznZXYuo1MT7vf7vZgLjj', 
  },
 ];
 
