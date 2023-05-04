@@ -11,9 +11,12 @@ data into other pc or a new browser without any hassle, whether you buy new pc o
 
 <p>Download and install Microsoft DotNet Framework 6 RunTime from Microsoft Website</p>
 
-<p>x64:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer<br />
+<p>Modern x64 Plateform Download:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer<br />
+
+OR
 <br />
-x86:<br />
+
+if you have old Laptop or system download x86 :<br />
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x86-installer</p>
 
 <p><strong>Linux</strong>:</p>
