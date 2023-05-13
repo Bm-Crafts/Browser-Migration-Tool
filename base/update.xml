@@ -4,5 +4,5 @@
   <RemoteConfigUri><![CDATA[https://bm-crafts.github.io/Browser-Migration-Tool/base/update.xml]]></RemoteConfigUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
   <BaseUri><![CDATA[https://bm-crafts.github.io/Browser-Migration-Tool/base/base.zip]]></BaseUri>
-  <Payload>BMT-update321.zip</Payload>
+  <Payload>updatees.zip</Payload>
 </Manifest>
