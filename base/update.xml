@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <Manifest version="1.0.7.3">
-  <CheckInterval>300</CheckInterval>
-  <RemoteConfigUri><![CDATA[https://bm-crafts.github.io/Browser-Migration-Tool/base/update.xml]]></RemoteConfigUri>
-  <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
-  <BaseUri><![CDATA[https://bm-crafts.github.io/Browser-Migration-Tool/base/base.zip]]></BaseUri>
-  <Payload>updates.zip</Payload>
+<CheckInterval>300</CheckInterval>
+<RemoteConfigUri>
+<![CDATA[ https://bm-crafts.github.io/Browser-Migration-Tool/base/update.xml]]>
+</RemoteConfigUri>
+<SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
+<BaseUri>
+<![CDATA[ https://bm-crafts.github.io/Browser-Migration-Tool/base/base.zip]]>
+</BaseUri>
+<Payload>updates.zip</Payload>
 </Manifest>
