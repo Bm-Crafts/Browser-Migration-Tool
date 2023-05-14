@@ -28,10 +28,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-wind
 
 <p><br />
 or use winget install Microsoft.DotNet.SDK.6 for Windows !0</p>
-
-
 <p><strong>Windows 10/11&nbsp;&nbsp; &nbsp;</strong></p>
-
 <p><br />
 <br />
 for Linux use &quot;dotnet MT.dll Run&quot; Commad to start<br />
