@@ -9,8 +9,7 @@ data into other pc or a new browser without any hassle, whether you buy new pc o
 
 <p>Modern x64 Plateform Download:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer<br />
 
-  <p><strong><a href="https://github.com/Bm-Crafts/Browser-Migration-Tool/releases/download/stable/Browser.Migration.Tool.zip">Download</a></strong></p>
-Browser Migration Tool Zip File and Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
+  <p><strong><a href="https://github.com/Bm-Crafts/Browser-Migration-Tool/releases/download/stable/Browser.Migration.Tool.zip">Download</a></strong> Browser Migration Tool Zip File and Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
 
 
 OR
