@@ -5,11 +5,9 @@ data into other pc or a new browser without any hassle, whether you buy new pc o
 
 <h2>Installation</h2>
 
-<p>Download From Releases Section Under beta Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
+<p>First Download and install Microsoft DotNet Framework 6 RunTime from Microsoft Website</p>
 
-<p><strong>Windows 10/11&nbsp;&nbsp; &nbsp;</strong></p>
-
-<p>Download and install Microsoft DotNet Framework 6 RunTime from Microsoft Website</p>
+<p> <a href=" https://github.com/Bm-Crafts/Browser-Migration-Tool/releases/download/stable/Browser.Migration.Tool.zip">Download Browser Migration Tool</a>Zip File and Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
 
 <p>Modern x64 Plateform Download:https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer<br />
 
@@ -29,6 +27,9 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-wind
 
 <p><br />
 or use winget install Microsoft.DotNet.SDK.6 for Windows !0</p>
+
+
+<p><strong>Windows 10/11&nbsp;&nbsp; &nbsp;</strong></p>
 
 <p><br />
 <br />
