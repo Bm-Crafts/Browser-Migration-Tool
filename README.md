@@ -7,7 +7,7 @@ data into other pc or a new browser without any hassle, whether you buy new pc o
 
 <p>First Download and install Microsoft DotNet Framework 6 RunTime from Microsoft Website Links Given Below</p>
 
-<p>Modern x64 Plateform Download:<a href= "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer">64 Bit RunTime </a><br />
+<p>Modern x64 Plateform Download:<a href= "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x64-installer"> Dotnet Core 64 Bit RunTime </a><br />
 
   <p><strong><a href="https://github.com/Bm-Crafts/Browser-Migration-Tool/releases/download/stable/Browser.Migration.Tool.zip">Download</a></strong> Browser Migration Tool Zip File and Unzip in Any Folder Run&nbsp;<strong>Browser Migration Tool.exe</strong></p>
 
