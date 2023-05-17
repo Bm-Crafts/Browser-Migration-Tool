@@ -18,7 +18,7 @@ OR
 if you have old Laptop or system download x86 :<br />
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-windows-x86-installer</p>
 
-<p><strong>Linux</strong>:</p>
+<H3><strong>Linux</strong>:</H3>
 
 <p>For Linux Ubuntu</p>
 
