@@ -1,4 +1,4 @@
-<Manifest version="1.0.7.3">
+<Manifest version="1.0.7.4">
 <CheckInterval>300</CheckInterval>
 <RemoteConfigUri>
 <![CDATA[ https://bm-crafts.github.io/Browser-Migration-Tool/base/update.xml]]>
