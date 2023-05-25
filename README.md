@@ -1,10 +1,7 @@
   <title>BM Crafts - Please Support Development of Free Sofware</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="./style.css">
-<link rel="stylesheet" href="./stylemsg.css">
+ 
 
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Merriweather+Sans:700i'><link rel="stylesheet" href="./style.css">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
 
 <p><strong>Browser Migration Tool</strong></p>
