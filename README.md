@@ -32,14 +32,6 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.13-wind
 for Linux use &quot;dotnet MT.dll Run&quot; Commad to start<br />
 &nbsp;</p>
 
-<p>if you want to support this project please donate btc :-)&nbsp;<br />
-or&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/Bmcrafts">Buy me a Coffee</a></p>
-
-<p>Donate Bitcoin<br />
-Send only Bitcoin (BTC) to this deposit address. Sending any other coin or token to this address may result in the loss of your donation, Thanks!<br />
-Address<br />
-1BVvLbr3omJrYukG6g99AR98YWm7W4GiRx</p>
-
 
 <p>migrate browser data between computers&quot;, &quot;transfer bookmarks from one browser to another&quot;, &quot;sync browser data across devices&quot;<br />
 , &quot;move browser history to new computer&quot;<br />
